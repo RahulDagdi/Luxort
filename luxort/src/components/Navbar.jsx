@@ -1,6 +1,6 @@
 import React from "react";
 
-const TopNav = () => (
+const Navbar = () => (
   <nav className="flex justify-between items-center border-b border-gray-300 px-6 py-3 text-sm">
         <div className="flex space-x-8 uppercase font-semibold text-gray-700">
           <a href="#home" className="hover:underline">Home</a>
@@ -26,4 +26,4 @@ const TopNav = () => (
       </nav>
 );
 
-export default TopNav;
+export default Navbar;

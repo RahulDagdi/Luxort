@@ -20,7 +20,7 @@ const HeroSection = () => (
           </div>
         </div>
 
-        {/* Slider Mimic */}
+  
         <div className="flex gap-4 mt-10">
           <div className="flex-1 bg-gray-300 h-36 rounded"></div>
           <div className="flex-1 bg-gray-400 h-36 rounded"></div>

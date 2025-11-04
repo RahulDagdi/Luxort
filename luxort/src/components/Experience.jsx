@@ -9,7 +9,7 @@ const Experience = () => {
           Experience elegance and comfort in our Luxury Rooms & Suites, where modern amenities and timeless design create the perfect retreat.
         </p>
 
-        {/* Highlight Tabs */}
+   
         <div className="flex justify-center space-x-3 text-xs text-gray-600 font-semibold uppercase tracking-wide border-b border-gray-300 pb-2 mb-8 cursor-pointer flex-wrap">
           {["Swimming Pool", "Fine Dining Restaurant", "Luxury Rooms & Suites", "Spa & Wellness"].map((item) => (
             <div key={item} className="hover:text-[#1C2B26] border-b-2 border-transparent hover:border-[#1C2B26] px-3 py-1 transition">
